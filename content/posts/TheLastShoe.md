@@ -1,6 +1,6 @@
 +++
 date = '2025-07-21T14:09:07-05:00'
-draft = true
+draft = false
 title = 'TheLastShoe'
 +++
 
